@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto&display=swap');
+
+/*
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+h1  {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  background-color: blue;
+  color: white;
+}
+
+h2  {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
+h3  {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
+h4  {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+}
+
+.gbclogo  {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  height: 5em;
+  width: 10em;
+}
+.semester {
+  width: 100%;
+  padding: 0;
+  margin: 0;  
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 1em;
+}
+
+article {
+  padding: 1em;
+  margin: 0;
+}
+
+ul  {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.group  {
+  margin: 1em 1em 1em 1em;
+  text-align: center;
+}
+
+.computer {
+  margin: 1em 1em 1em 1em;
+  text-align: center;
+}
+
+.grad {
+  margin: 1em 1em 1em 1em;
+  text-align: center;
+}
+
+.social {
+  text-align: center;
+  margin: 1em 1em 1em 1em
+}
+
+.insta  {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.faceb  {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+.twt  {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+}
+
+.yout {
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: 'Oswald', sans-serif;
+}
+
+.terms {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+
+.privacypol {
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+  text-decoration: none;
+}
+
+.copyright  {
+  text-transform: uppercase;
+}
+
+/*
+
+grid-template-columns:
+grid-template-rows:
+
+*/
