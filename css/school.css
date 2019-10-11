@@ -63,10 +63,6 @@ p {
   text-align: center;
 }
 
-footer  {
-  
-}
-
 .group  {
   margin: 1em 1em 1em 1em;
   text-align: center;
@@ -91,14 +87,12 @@ footer  {
   text-transform: uppercase;
   text-decoration: none;
   font-family: 'Oswald', sans-serif;
-
 }
 
 .faceb  {
   text-transform: uppercase;
   text-decoration: none;
   font-family: 'Oswald', sans-serif;
-
 }
 
 .twt  {
