@@ -71,11 +71,15 @@ p {
 .computer {
   margin: 1em 1em 1em 1em;
   text-align: center;
+  max-width: 100%;
+  height: auto;
 }
 
-.grad {
+.grads {
   margin: 1em 1em 1em 1em;
   text-align: center;
+  max-width: 100%;
+  height: auto;
 }
 
 .social {
