@@ -32,14 +32,15 @@ h4  {
 }
 
 .gbclogo  {
+  padding: 1em;
   margin-left: auto;
   margin-right: auto;
   display: block;
   height: 5em;
   width: 10em;
 }
+
 .semester {
-  padding: 1em;
   width: 100%;
   padding: 0;
   margin: 0;  
