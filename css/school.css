@@ -73,15 +73,17 @@ blockquote  {
   background: #F0F8FF;
 }
 
+img {
+  min-width: 100px;
+}
+
 .group  {
   margin: 1em 1em 1em 1em;
-  /*text-align: center;*/
   overflow: hidden;
 }
 
 .computer {
   margin: 1em 1em 1em 1em;
-  /*text-align: center;*/
   /*max-width: 100%;*/
   height: auto;
   overflow: hidden;
@@ -89,14 +91,12 @@ blockquote  {
 
 .grads {
   margin: 1em 1em 1em 1em;
-  /*text-align: center;*/
   /*max-width: 100%;*/
   height: auto;
   overflow: hidden;
 }
 
 .social {
-  /*text-align: center;*/
   margin: 1em 1em 1em 1em
 }
 
