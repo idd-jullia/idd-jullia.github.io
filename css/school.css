@@ -84,6 +84,7 @@ ul  {
 }
 
 p {
+  padding: 1em;
   font-family: 'Roboto', sans-serif;
   text-align: center;
 }
@@ -105,6 +106,7 @@ img {
 .group  {
   /*margin: 1em 1em 1em 1em;*/
   overflow: hidden;
+  padding: 1em;
 }
 
 .computer {
@@ -112,6 +114,7 @@ img {
   /*max-width: 100%;*/
   height: auto;
   overflow: hidden;
+  padding: 1em;
 }
 
 .grads {
@@ -119,14 +122,17 @@ img {
   /*max-width: 100%;*/
   height: auto;
   overflow: hidden;
+  padding: 1em;
 }
 
 footer  {
   background-color: #B0E0E6;
   text-align: center;
+  padding: 1em;
 }
 
 .socials {
+  padding: 1em;
   /*margin: 1em 1em 1em 1em*/
 }
 
