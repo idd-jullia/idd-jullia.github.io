@@ -63,6 +63,16 @@ p {
   text-align: center;
 }
 
+blockquote  {
+  font-family: 'DM Serif Display', serif;
+  padding: 1em;
+  font-style: italic;
+  margin-left: 1.5em;
+  margin-bottom: 1.5em;
+  margin-right: 1.5em;
+  background: greenyellow;
+}
+
 .group  {
   margin: 1em 1em 1em 1em;
   /*text-align: center;*/
