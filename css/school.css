@@ -151,6 +151,12 @@ footer  {
   background: #00BFFF;
 }
 
+@media screen and ( min-width: 400px ) {
+  blockquote  {
+    background-color: #5F9EA0;
+  }
+}
+
 /*
 
 grid-template-columns:
