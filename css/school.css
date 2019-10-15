@@ -142,6 +142,10 @@ img {
   text-transform: uppercase;
 }
 
+::selection {
+  background: #00BFFF;
+}
+
 /*
 
 grid-template-columns:
