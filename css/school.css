@@ -39,7 +39,6 @@ h4  {
   width: 10em;
 }
 .semester {
-  background-color: #6495ED	;
   width: 100%;
   padding: 0;
   margin: 0;  
@@ -47,6 +46,30 @@ h4  {
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 1fr 1fr 1fr;
   grid-gap: 1em;
+}
+
+.one  {
+  background-color: #E5E4E2;
+}
+
+.two  {
+  background-color:#D1D0CE;
+}
+
+.three  {
+  background-color:#B6B6B4;
+}
+
+.four {
+  background-color:#848482;
+}
+
+.five {
+  background-color:#837E7C;
+}
+
+.six  {
+  background-color:#736F6E;
 }
 
 article {
