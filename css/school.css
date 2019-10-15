@@ -76,20 +76,23 @@ blockquote  {
 .group  {
   margin: 1em 1em 1em 1em;
   /*text-align: center;*/
+  overflow: hidden;
 }
 
 .computer {
   margin: 1em 1em 1em 1em;
   /*text-align: center;*/
-  max-width: 100%;
+  /*max-width: 100%;*/
   height: auto;
+  overflow: hidden;
 }
 
 .grads {
   margin: 1em 1em 1em 1em;
   /*text-align: center;*/
-  max-width: 100%;
+  /*max-width: 100%;*/
   height: auto;
+  overflow: hidden;
 }
 
 .social {
